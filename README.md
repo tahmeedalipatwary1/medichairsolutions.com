@@ -4,10 +4,12 @@ Introduction:
 The increasing demand for available healthcare, getting continuous, real-time data on vital signs we notify advancements in health monitoring systems. Monitoring important physiological parameters such as heart rate, blood pressure, and oxygen saturation, it would be possible to monitor patients’ data even in remote environments. 
 Wireless sensor networks (WSNs) have played a vital role in technological innovations which has been widely implemented in health monitoring systems, offering real-time data transmission and remote access to medical professionals. This evolution of biosensors has also improved the accuracy and efficiency of monitoring systems and made it reliable. 
 These advancements reducing the need for regular hospital visits and enhancing the overall quality of healthcare where the use of artificial intelligence (AI) can provide a predictive analysis of patient’s data for helping healthcare providers to make a circumstantial decision.
+
 •	Non-Invasive
 At present, monitoring vital signs those are parenting without skin or not injecting anything into the body, reducing the risk of infections, making a highly efficient clinical setting by non-invasive medical technologies. 
 In modern days, we can measure blood oxygen level and pulse rates using light sensors on the skin and monitor blood pressure without using arterial catheters, are the example of non-invasive health monitoring system. 
 Our study proposed a Medi-Chair, equipped with several biosensors allowing continuous health monitoring of vital signs by a user-friendly interface.
+
 Sensors:
 1.	Max30102: MAX30102 is an infrared photodetector with optical component integrated with pulse oximeter and heart rate monitor.
 2. tiny GSR /EDA Sensor: GSR sensor measures skin resistance and conductivity known as electrodermal activity.
