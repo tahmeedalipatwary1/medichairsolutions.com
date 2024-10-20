@@ -1,4 +1,5 @@
 Introduction:
+
 •	Health Monitoring System:
 The increasing demand for available healthcare, getting continuous, real-time data on vital signs we notify advancements in health monitoring systems. Monitoring important physiological parameters such as heart rate, blood pressure, and oxygen saturation, it would be possible to monitor patients’ data even in remote environments. 
 Wireless sensor networks (WSNs) have played a vital role in technological innovations which has been widely implemented in health monitoring systems, offering real-time data transmission and remote access to medical professionals. This evolution of biosensors has also improved the accuracy and efficiency of monitoring systems and made it reliable. 
